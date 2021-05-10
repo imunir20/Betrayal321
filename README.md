@@ -1,6 +1,6 @@
 # CS 321 Group 12: Betrayal at House on the Hill
 
--- Running the game
+## Running the game
 
 - Run the server.py file in a terminal window
 - Open another terminal window, run the client.py file
