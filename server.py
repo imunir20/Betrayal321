@@ -3,7 +3,7 @@ from _thread import *
 import pickle
 from game import Game
 
-server = "192.168.1.161"      # If running the server locally on your computer, make this your IPv4 address (can be found using ipconfig command on terminal)
+server = ""      # If running the server locally on your computer, make this your IPv4 address (can be found using ipconfig command on terminal)
 port = 5353                   # Unused/free port usually, so we will use it for our server
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
